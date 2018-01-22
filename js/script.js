@@ -15,8 +15,6 @@ var para = $("p");
 
 $("button").click(function() {
   alert($(this).attr("data-tmp"));
-
-
 });
 
 $("button").css({
