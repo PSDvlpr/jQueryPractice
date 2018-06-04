@@ -1,1 +1,1 @@
-# modul-10-2
+# jQueryPractice
